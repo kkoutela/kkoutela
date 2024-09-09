@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kkoutela
-- 👀 I’m interested in data science and data analytics applications
-- 🌱 I’m a Mathematician and I'm currently a postgraduate student at the Msc in Data Science at International Hellenic University
+- 👀 I'm a passionate Data Engineer currently living in Thessaloniki, Greece, with over a year of experience in bi engineering. I specialize in building interactive and user-friendly Power BI reports.
+- 🌱 M.Sc. in Data Science & B.Sc. in Mathematics
 
 
 <!---
