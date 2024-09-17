@@ -1,7 +1,10 @@
-👋 Hi, I’m @kkoutela
-👀 I’m a passionate Data Engineer based in Thessaloniki, Greece, with over a year of experience in BI engineering. I specialize in designing interactive, user-friendly Power BI reports that transform data into actionable insights.
-🌱 I hold an M.Sc. in Data Science and a B.Sc. in Mathematics.
-💻 Currently, I’m working on an exciting project focused on Image Recognition.
+# 👋 Hi, I’m @kkoutela
+# 👀 About me
+I’m a passionate Data Engineer based in Thessaloniki, Greece, with over a year of experience in BI engineering. I specialize in designing interactive, user-friendly Power BI reports that transform data into actionable insights and developing efficient ETL processes. Always striving to sharpen my technical expertise—particularly in Power BI, SQL, and Python—while continuously enhancing my soft skills to better collaborate with and support teams.
+# 💼 Educational Background 
+I hold an M.Sc. in Data Science and a B.Sc. in Mathematics.
+# 💻 Currently Learning 
+I’m working on an exciting project focused on Image Recognition.
 
 
 <!---
