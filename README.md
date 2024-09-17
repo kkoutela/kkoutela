@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @kkoutela
-- 👀 I'm a passionate Data Engineer currently living in Thessaloniki, Greece, with over a year of experience in bi engineering. I specialize in building interactive and user-friendly Power BI reports.
-- 🌱 M.Sc. in Data Science & B.Sc. in Mathematics
+👋 Hi, I’m @kkoutela
+👀 I’m a passionate Data Engineer based in Thessaloniki, Greece, with over a year of experience in BI engineering. I specialize in designing interactive, user-friendly Power BI reports that transform data into actionable insights.
+🌱 I hold an M.Sc. in Data Science and a B.Sc. in Mathematics.
+💻 Currently, I’m working on an exciting project focused on Image Recognition.
 
 
 <!---
